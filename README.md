@@ -22,7 +22,15 @@ A full-stack machine learning dashboard that classifies images using a trained C
 
 ## Folder Structure
 
-cnn-image-classifier-dashboard/ ├── frontend/ │   └── React components (MainAppForm, About, Docs) ├── backend/ │   ├── main.py │   ├── model/ │   │   └── cnn_model.py │   ├── utils/ │   │   └── predict.py │   └── db/ │       ├── database.py │       └── models.py ├── docs/ │   └── demo.png ├── .gitignore ├── README.md
+cnn-image-classifier-dashboard/ ├── frontend/ │   
+                                       └── React components (MainAppForm, About, Docs) 
+                                ├── backend/ │   ├── main.py │   
+                                       ├── model/ │   
+                                       │   └── cnn_model.py │   
+                                       ├── utils/ │   │   └── predict.py │   └── db/ │       ├── database.py │       └── models.py 
+                                ├── docs/ │  
+                                       └── demo.png 
+                                ├── .gitignore ├── README.md
 
 
 ## How to Run Locally
